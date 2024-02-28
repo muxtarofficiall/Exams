@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+</head>
+<body style="background-color:rgb(7, 121, 136);">
+    <img src="6826_1704869260.png" alt="Italian Trulli" width="650"height"650">
+   <b><ul>
+        <li >
+            Naxçıvan Muxtar Respublikası
+        </li>
+        <li>Haqqında</li>
+        <ul>
+            <ol >
+            <li type="circle">
+        Ərazis:191.7        
+            </li>
+            <li type="circle">
+                Əhalisi:96.5 min
+            </li>
+            <li type="circle">
+                Nəqliyyat kodu:75
+                </li>
+                <li type="circle">
+                    Iqlimi:Subtropik
+                </li>
+           <li type="circle">
+            Telefon kodları:
+            <li type="square">
+                +994 36
+            </li>
+            <li type="square">
+                +994 60
+            </li>
+           </li>
+        
+    </ol>
+</b> 
+<video width="320" height="240" controls>
+    <source src="c:\Users\Muxtar\Desktop\Task\Naxçıvanın ən gəzməli yerləri.mp4" type="video/mp4">
+</body>
+</html>
