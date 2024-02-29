@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+          <th colspan="5" bgcolor="#7469B6">Alimlər</th>
+          
+        </tr>
+        <tr bgcolor="#E1AFD1">
+            <th>No</th>
+            <th>Foto</th>
+            <th>Ad Soyad</th>
+            <th colspan="2">Əlaqə</th>
+           
+
+        </tr>
+        <tr bgcolor="#B5C0D0">
+          <td>1</td>
+          <td > <img src="c:\Users\Muxtar\Desktop\Task\images.jpg" height="30" width="30"> </td>
+          <td>Fuyuzad Seyidov</td>
+          <td>Tel1:0505001010</td>
+          <td>Tel2:0508004000</td>
+          
+        </tr>
+        <tr bgcolor="#B5C0D0">
+          <td>2</td>
+          <td> <img src="c:\Users\Muxtar\Desktop\Task\nesireddin_tusi.jpg" height="30" width="30"> </td>
+          <td>Nəsrəddin Tusi</td>
+          <td>Tel1:050400200</td>
+          <td>Tel2:050401401</td>
+
+        </tr>
+        <tr>
+        
+    </tr>
+      </table>
+</body>
+</html>
