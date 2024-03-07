@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/* body {} */
+
+header {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(242, 242, 243);
+    background-image: url("https://foto.haberler.com/haber/2022/11/08/fenerbahce-de-dunya-kupasi-na-gidecek-futbolcular-15416198_2293_amp.jpg");
+    background-attachment: fixed;
+}
+
+
+header h2 {
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    padding: 40px;
+    font-weight: 700;
+   
+}
+
+.container {
+    width: 1440px;
+    max-width: 95%;
+    margin: 0 auto;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 5px 20px;
+
+}
+
+.navbar .nav__logo img {
+    width: 80px;
+    height: 65px;
+
+
+}
+
+.nav__logo ul li{
+    display: flex;
+    align-items: center;
+
+    gap: 60px;
+
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+button:hover {
+    background-color: black;
+    color: rgb(155, 155, 52);
+ 
+}
+
+section h2 {
+    text-align: center;
+    margin: 20px 0px 0px;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.product {
+    width: 20%;
+    background-color: rgb(204, 182, 142);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+
+.product img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.product h3 {
+    padding: 10px 0px;
+}
+button {
+    width: 70px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(129, 9, 9);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+ 
+        
+    }
+    .background-video {
+        height: 100px;
+        width: 100px
+        object-fit: cover;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: -1;
+        padding: 40px;
+        font-weight: 700;
+       
+      }
+
+      .demo{
+        width: 200px;
+      }
+      .set h1{
+        text-align: center;
+    font-size: 40px;
+    color: rgb(26, 26, 15);
+    padding: 30px;
+    font-weight: 700;
+    text-shadow: 100%;
+
+      }
