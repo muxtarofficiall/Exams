@@ -1,0 +1,166 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+.container {
+    width: 100%;
+    max-width: 10vh%;
+  
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 5px 20px;
+    background-color: rgb(137, 115, 88)
+
+
+}
+.navbar .navlogo img{
+    width: 80px;
+    height: 65px;
+}
+.navlogo ul a li{
+    display: flex;
+    align-items: center;
+
+    gap: 90px;
+}
+.navbar ul{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+  
+}
+a{
+    color: rgb(68, 66, 64);
+    cursor: p;
+}
+a:hover{
+    color: antiquewhite;
+}
+.set1{
+    background-image: url(image-asset.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+   width: 1600px;
+   text-align: center;
+   padding:300px;
+   font-size: 27px;
+   color: bisque;
+   cursor: pointer;
+}
+.set1:hover{
+    color: aliceblue;
+}
+.set2{
+    background-image: url(blank-white-background-xbsfzsltjksfompa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+   width: 1600px;
+   text-align: center;
+   padding:300px;
+   font-size: 27px;
+   color: bisque;
+   cursor: pointer;
+
+}
+.prall{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 50px;
+    align-items: center;
+
+}
+.pr{
+    width: calc((100% - 60px) / 4);
+    background-color: rgb(104, 94, 94);
+    text-align: center;
+    margin-top: 10px;
+}
+.pr img{
+    width: 100%;
+   
+}
+.card{
+    border: 13px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    
+   
+}
+button{
+    background-color: rgb(85, 85, 60);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    color: darkorange;
+}
+button:hover{
+    color: aliceblue;
+}
+.buy{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.buy:hover{
+    color: antiquewhite;
+}
+i {
+    color: red;
+    
+    position: absolute;
+   
+    cursor: pointer;
+
+}
+.set3{
+    background-image: url(download\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+   width: 1600px;
+   text-align: center;
+   padding:400px;
+   font-size: 27px;
+   color: bisque;
+   cursor: pointer;
+
+
+}
+.set4{
+    background-image: url(blank-white-background-xbsfzsltjksfompa.jpg);
+    text-align: center;
+
+}
+.id{
+    text-align: center;
+}
+#pp{
+    color: aliceblue;
+   cursor: pointer;
+}
+#pp:hover{
+    color: antiquewhite;
+}
